@@ -83,7 +83,7 @@
 
                           }
                           else{
-                            echo '<li class="dropdown-item"><a href="Login.php">Log in</a></li>';
+                            echo '<li class="dropdown-item"><a href="login.php">Log in</a></li>';
                             echo '<li class = "dropdown-item"><a href="register.php">Register</a></li>';
                           }
                           ?>
